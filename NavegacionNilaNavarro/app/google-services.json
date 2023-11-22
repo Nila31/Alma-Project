@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171026979430",
+    "project_id": "alma-391216",
+    "storage_bucket": "alma-391216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171026979430:android:fcee6b9e9d90e54a142ba7",
+        "android_client_info": {
+          "package_name": "com.proyecto.navegacionnilanavarro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171026979430-9rk36imjgf6viih28t2l8kpcagp2gf1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd5Q8pzS5ZePaUpWApXIOXtTWgVCNluvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171026979430-9rk36imjgf6viih28t2l8kpcagp2gf1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
